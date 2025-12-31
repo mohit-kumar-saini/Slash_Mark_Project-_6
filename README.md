@@ -23,9 +23,12 @@
 
 ## How to Run
 1. Install dependencies:
+   ```bash
    pip install -r requirements.txt
+   
 2. Connect camera to Jetson Nano
 3. Run:
+   ```bash
    python license_plate_recognition.py
 
 ---
