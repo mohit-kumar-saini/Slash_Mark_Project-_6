@@ -1,8 +1,8 @@
 # License Plate Recognition 
 
 ## Project Description
-This project implements an automatic license plate recognition (ALPR) system using Jetson Nano. 
-It utilizes computer vision and deep learning techniques to detect and recognise license plates from live video streams.
+- This project implements an automatic license plate recognition (ALPR) system using Jetson Nano. 
+- It utilizes computer vision and deep learning techniques to detect and recognise license plates from live video streams.
 ---
 
 ## Technologies Used
